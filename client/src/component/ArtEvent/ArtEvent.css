@@ -1,0 +1,50 @@
+.horizontal-line1 {
+    width: 100%;
+    /* Adjust width as needed */
+    height: 1px;
+    /* Line thickness */
+    background-color: gray;
+    /* Line color */
+    margin-top: 54px;
+    margin-bottom: 65px;
+}
+
+.horizontal-line2 {
+    width: 100%;
+    /* Adjust width as needed */
+    height: 1px;
+    /* Line thickness */
+    background-color: gray;
+    /* Line color */
+    margin-top: 54px;
+    margin-bottom: 292px;
+}
+
+
+img.custom-image {
+    width: 379px;
+    height: 282px !important;
+}
+
+/* spacing */
+
+.event-spacing {
+    padding-top: 78px;
+    padding-bottom: 15px;
+}
+
+.paragraph-spacing{
+    padding-bottom: 41px;
+    text-align: center !important;
+}
+
+.art-exhib-spacing{
+    padding-top: 70px;
+    padding-bottom: 38px;
+}
+
+p{
+    text-align: center;
+}
+
+

@@ -1,0 +1,72 @@
+.frame {
+    height: 397px;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .frame .text-wrapper {
+    color: #000000;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    left: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 10px;
+    width: 201px;
+  }
+  
+  .frame .lorem-ipsum-is {
+    color: #000000;
+    font-family: "Josefin Sans-Bold", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    left: 90px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 99px;
+    width: 778px;
+  }
+  
+  .frame .testi {
+    height: 241px;
+    left: 1022px;
+    object-fit: cover;
+    position: absolute;
+    top: 36px;
+    width: 326px;
+  }
+  
+  .frame .ellipse {
+    background-color: #d9d9d9;
+    border-radius: 10.5px / 12.5px;
+    height: 25px;
+    left: 679px;
+    position: absolute;
+    top: 336px;
+    width: 21px;
+  }
+  
+  .frame .div {
+    background-color: #d9d9d9;
+    border-radius: 10.5px / 12.5px;
+    height: 25px;
+    left: 735px;
+    position: absolute;
+    top: 336px;
+    width: 21px;
+  }
+  
+  .frame .ellipse-2 {
+    background-color: #d9d9d9;
+    border-radius: 10.5px / 12.5px;
+    height: 25px;
+    left: 791px;
+    position: absolute;
+    top: 336px;
+    width: 21px;
+  }
+  

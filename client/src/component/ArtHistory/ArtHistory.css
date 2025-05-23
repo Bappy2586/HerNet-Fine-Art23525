@@ -1,0 +1,49 @@
+.banner-text {
+    font-size: 45px;
+    margin-top: 70px;
+}
+ .texts {
+    text-align: left;
+}
+
+.header-spacing {
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+
+p,
+li {
+    font-size: larger;
+}
+
+.custom-list {
+    list-style-type: disc !important;
+    padding-left: 20px !important;
+    text-align: left;
+}
+
+.custom-list li {
+    display: list-item !important;
+}
+
+.rounded {
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+
+
+.justify-text {
+    text-align: justify;
+}
+
+.tagline {
+    color:#43464d;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.font-bold{
+    font-weight: bold;
+    color: gray;
+} 

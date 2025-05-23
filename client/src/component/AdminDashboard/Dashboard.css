@@ -1,0 +1,17 @@
+.nav-link {
+    transition: background-color 0.2s ease-in-out, color 0.2s;
+    border-radius: 6px;
+    padding: 8px 12px;
+}
+
+.nav-link:hover {
+    background-color: #e9ecef;
+    color: #0d6efd;
+    text-decoration: none;
+}
+
+.nav li {
+    display: inline;
+    margin: 0 10px;
+    text-align: left;
+}

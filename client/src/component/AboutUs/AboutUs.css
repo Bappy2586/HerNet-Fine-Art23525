@@ -1,0 +1,15 @@
+.spacing{
+    margin-top: 100px;
+}
+
+.paragraph-spacing{
+    margin-top: 40px;
+    text-align: justify !important;
+}
+p{
+    text-align: justify;
+}
+h1{
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+}

@@ -1,0 +1,22 @@
+.custom-image {
+    width: 100% !important;
+    height: 488px;
+}
+
+.title {
+    text-align: left;
+}
+
+.custom-logo {
+    width: 94px;
+    height: 98px;
+}
+
+.card{
+    background-color: #D9D9D966;
+}
+
+.row.d-flex {
+    display: flex;
+    flex-wrap: nowrap;
+}

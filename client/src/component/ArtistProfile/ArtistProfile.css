@@ -1,0 +1,64 @@
+.spacing {
+    margin-top: 45px;
+}
+
+.texts {
+    text-align: left;
+}
+
+.align-right {
+    align-items: end;
+}
+
+
+.horizontal-line {
+    width: 100%;
+    /* Adjust width as needed */
+    height: 1px;
+    /* Line thickness */
+    background-color: gray;
+    /* Line color */
+    margin: 20px auto;
+    /* Adds spacing and centers it */
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.fixed-text-column {
+    width: 600px;
+    /* Fixed width */
+    max-width: 100%;
+    /* Ensures responsiveness */
+}
+
+.custom-pro-image{
+    width: 283.22px;
+    height: 410px;
+}
+
+.custom-image-available {
+    width: 287.19px;
+    height: 290px;
+}
+
+.custom-image-past {
+    width: 323px;
+    height: 375px;
+}
+
+.custom-image-book {
+    width: 244px;
+    height: 364px;
+}
+
+.desccrption-spacing {
+    margin-top: 58px;
+}
+
+.paragraph-spacing {
+    margin-top: 21px;
+}
+
+.comment{
+    margin-top: 200px;
+}
